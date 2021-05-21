@@ -1,4 +1,4 @@
-#Graphql Ui
+# Graphql Ui
 http://localhost:8080/q/graphql-ui
 
 # quarkus-graphql project
